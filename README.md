@@ -1,2 +1,2 @@
 # future-portfolio
-A fictional portfolio for 10 next years.
+A fictitious portfolio for the next 10 years
